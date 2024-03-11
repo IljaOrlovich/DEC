@@ -1,0 +1,14 @@
+C:\Users\iljao\source\repos\DEC\DEC\bin\Debug\net8.0\DEC.exe
+C:\Users\iljao\source\repos\DEC\DEC\bin\Debug\net8.0\DEC.deps.json
+C:\Users\iljao\source\repos\DEC\DEC\bin\Debug\net8.0\DEC.runtimeconfig.json
+C:\Users\iljao\source\repos\DEC\DEC\bin\Debug\net8.0\DEC.dll
+C:\Users\iljao\source\repos\DEC\DEC\bin\Debug\net8.0\DEC.pdb
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.AssemblyInfoInputs.cache
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.AssemblyInfo.cs
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.csproj.CoreCompileInputs.cache
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.dll
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\refint\DEC.dll
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.pdb
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\DEC.genruntimeconfig.cache
+C:\Users\iljao\source\repos\DEC\DEC\obj\Debug\net8.0\ref\DEC.dll
